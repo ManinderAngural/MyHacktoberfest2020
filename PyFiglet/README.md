@@ -1,5 +1,7 @@
 # PyFiglet #
 
+[Pull Request Merged](https://github.com/keshavsingh4522/hacktoberfest2020/pull/120)
+
 ## Description ##
 
 A python script that takes in ASCII text and renders it in various ASCII art fonts using the Pyfiglet library.
