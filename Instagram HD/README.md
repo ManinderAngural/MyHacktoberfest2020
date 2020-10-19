@@ -1,5 +1,7 @@
 # Instagram HD #
 
+[Pull Request Merged](https://github.com/keshavsingh4522/hacktoberfest2020/pull/112)
+
 ## Description ##
 
 Image scraper for High-Definition Instagram Profile Pics.
