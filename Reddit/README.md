@@ -1,8 +1,11 @@
 # Reddit Posts Grabber #
 
+[Pull Request Merged](https://github.com/afred-khan/-HACKTOBERFEST2K20/pull/380)
+
 ## Description ##
 
 A python script that grabs upto 100 top posts of any subreddit.
+
 
 ## Author ##
 
