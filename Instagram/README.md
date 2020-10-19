@@ -13,13 +13,13 @@ A python script that grabs top posts related to any Instagram hashtag.
 Run the program
 
 ```console
-$python Instagram.py
+$python InstagramHashtag.py
 ```
 
 Output:
 
 ```
-$ Instagram.py
+$ InstagramHashtag.py
 Enter a hashtag : 
 ```
 
