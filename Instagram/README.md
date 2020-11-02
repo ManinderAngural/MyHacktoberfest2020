@@ -1,5 +1,7 @@
 # Instagram Hashtag #
 
+[Pull Request Merged](https://github.com/wir-coders/Hacktoberfest/pull/277)
+
 ## Description ##
 
 A python script that grabs top posts related to any Instagram hashtag.
